@@ -22,10 +22,10 @@ and type of math questions. Users answer questions one by one, and the final sco
 
 ## Screenshots
 ### Main Menu
-![Main Menu](path/to/screenshot1.png)
+![Main Menu](https://github.com/deemah-dev/MathQuizGame/blob/main/MainScreen.png)
 
 ### Sample Question
-![Sample Question](path/to/screenshot2.png)
+![Sample Question](https://github.com/deemah-dev/MathQuizGame/blob/main/QuestionsScreen.png)
 
 ### Result
-![Result](path/to/screenshot3.png)
+![Result](https://github.com/deemah-dev/MathQuizGame/blob/main/ResultsScreen.png)
